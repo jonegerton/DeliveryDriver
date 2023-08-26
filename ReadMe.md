@@ -1,3 +1,3 @@
-# Delivery Driver Game
+# DeliveryDriver
 
-Section 1 activity from Udemy Complete C# Unity Game Developer 2D.
+Complete C# Unity Game Developer 2D: Section 1
